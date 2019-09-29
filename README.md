@@ -1,4 +1,4 @@
-# 100DaysLeaning
+# 100DaysLearning
 ###```100 days of learning both JavaScript and AWS Cloud Tech's```
 
 ```
